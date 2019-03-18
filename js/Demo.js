@@ -7,7 +7,7 @@
 */
 
 (function() {
-    var sourceLinkRoot = 'https://github.com/monsterbrain/matter-js-cut-shapes-demo/js';
+    var sourceLinkRoot = 'https://github.com/monsterbrain/matter-js-cut-shapes-demo/blob/master/js';
 
     var demo = MatterTools.Demo.create({
         toolbar: {
